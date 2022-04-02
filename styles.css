@@ -1,0 +1,31 @@
+img {
+    max-height: 500px;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+    border-style: solid;
+    border-width: 3px 5px 5xp 4px;   
+    border-color: #34e3fa;
+    border-radius: 7px;
+}
+
+.step {
+border-style: dotted;
+border-width: 2px;
+border-color: #34e3fa;
+border-radius: 7px;
+}
+
+
+
+body {
+text-align: justify;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+
+.res {text-align: center;}
+
+.head {text-align: center;}
